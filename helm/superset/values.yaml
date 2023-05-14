@@ -176,7 +176,7 @@ configMountPath: "/app/pythonpath"
 extraConfigMountPath: "/app/configs"
 
 image:
-  repository: apache/superset
+  repository: tomilin/superset
   tag: ""
   pullPolicy: IfNotPresent
 
